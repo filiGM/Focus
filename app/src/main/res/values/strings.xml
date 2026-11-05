@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FocusLock</string>
+    <string name="share_label">Save to FocusLock</string>
+    <string name="scroll_guard_label">FocusLock Scroll guard</string>
+    <string name="scroll_guard_desc">Detects scrolling in TikTok, Facebook, Instagram and YouTube only while you view a saved post opened from FocusLock, and then locks the app. It cannot read your screen, messages or passwords.</string>
+</resources>
